@@ -1,7 +1,10 @@
 import java.util.*;
 import java.io.IOException;
 
-
+/**
+ *@author Salil Parihar
+ *Java implementation of NIM game.
+ */
 class Pattern
 {
     int[] balls = new int[5];
